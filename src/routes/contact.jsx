@@ -14,7 +14,6 @@ export default function Contact() {
 				Please fill out the contact form below.</p>
 			<div className="container">
 				<form onSubmit={handleSubmit(onSubmit)}>
-
 					<fieldset>
 						<label htmlFor="firstname"> First Name: </label>
 						<input name="firstname" {...register("firstName", { required: "Please enter your first name.", maxLength: 20 })} />
