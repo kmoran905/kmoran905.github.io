@@ -1,0 +1,14 @@
+import React from 'react';
+
+export default function Home() {
+    return (
+        <><h1>Home</h1>
+            <p>Vestibulum accumsan magna id dui facilisis, eget aliquam urna gravida. Curabitur tempor a justo at sollicitudin. Fusce lacinia ornare lacus quis sollicitudin. Phasellus sollicitudin ante ac ipsum varius, sit amet faucibus urna dictum. Pellentesque vestibulum rhoncus sapien eu viverra. In pharetra varius augue id porttitor. Nulla pharetra laoreet magna vel pulvinar. Cras et porttitor dolor. Vivamus id quam ut erat tincidunt tristique. Suspendisse potenti. Vestibulum nibh ipsum, commodo et posuere sit amet, facilisis quis mi. Donec cursus odio id enim hendrerit, eget vulputate sapien euismod. Vestibulum elementum porta turpis, ac egestas dolor placerat sed. Etiam tempus laoreet arcu, id mattis eros maximus quis. Curabitur maximus est vel vulputate placerat. Proin id cursus neque.
+
+            Integer at dictum sapien, ut molestie enim. Integer accumsan enim condimentum neque mollis, sed malesuada erat molestie. Nullam dictum sapien at lacus cursus posuere. Donec in risus magna. Vivamus vel ex sit amet turpis tincidunt faucibus non eu ipsum. Cras dapibus sapien non neque viverra gravida. Etiam vel faucibus magna, eu sagittis nisl. Quisque quis mollis nunc. Suspendisse pellentesque ex non malesuada volutpat. Phasellus vestibulum arcu non est pellentesque tempor. Sed eget est nec felis placerat congue. Sed ut metus arcu. In molestie, sapien eu ornare finibus, orci justo convallis magna, non blandit orci purus non dolor.
+
+            Donec quis risus mi. Nullam eget efficitur nisi, ac feugiat nisi. Vivamus ac justo nisi. Suspendisse placerat luctus velit. Aenean lobortis magna a efficitur egestas. Sed viverra facilisis enim. In iaculis nunc erat, laoreet venenatis magna commodo sed.
+
+            Aliquam erat volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean non lorem enim. Etiam fermentum sit amet ligula eu feugiat. Nulla facilisis consequat sem, quis vestibulum purus ullamcorper gravida. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus vel convallis velit. Donec consequat in odio sed vestibulum. Duis condimentum eget est non semper. Donec arcu magna, volutpat id faucibus sit amet, lobortis blandit velit. Mauris ut augue cursus massa volutpat congue ac et enim. Nullam pellentesque urna et turpis pretium, nec sodales tellus dictum. Etiam aliquet felis non metus interdum ornare. Maecenas convallis iaculis lorem sit amet molestie. Sed blandit quis orci eu viverra.</p></>
+    )
+}
